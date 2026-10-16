@@ -1,1 +1,3 @@
 flask
+httpx
+yandex-music
